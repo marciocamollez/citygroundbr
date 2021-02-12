@@ -1,0 +1,12 @@
+.grid{
+    background-color: #FFF;
+}
+
+.boxTexto{
+    padding: 2rem;
+}
+.boxTexto h2{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: #333;
+}
